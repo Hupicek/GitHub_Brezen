@@ -8,3 +8,7 @@ int c = Math.Min(a, b);
 int d = Math.Max(a, b);
 Console.WriteLine(c);
 Console.WriteLine(d);
+if (a == b)
+{
+    Console.WriteLine("cisla  se rovnaji");
+}
